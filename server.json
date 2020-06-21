@@ -1,14 +1,6 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
       "id": 2,
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
@@ -23,6 +15,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://www.kitano.com.br/wp-content/uploads/2019/07/SSP_1592-Sopa-de-legumes-com-cu%E2%95%A0%C3%BCrcuma.jpg",
+      "name": "Sopa",
+      "price": "29.90",
+      "description": "sopa pah noix",
+      "available": false,
+      "id": 4
     }
   ]
 }
